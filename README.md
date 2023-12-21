@@ -1,10 +1,14 @@
-# Demo Token Jwt
+<h1 align="center">Demo Token Jwt</h1>
 
-Mise en place d'un token JWT Bearer dans une app ASP.NET Core.
-Setting de la clé secrète automatique et stockage de celle-ci dans les variables d'environnement.
+1. Mise en place d'un token JWT Bearer dans une app ASP.NET Core :   
+ => setting de la clé secrète automatique et stockage de celle-ci dans une variable d'environnement.
 
+---------------
 
-Ajout de l'authentification :
+2. Ajout de l'authentification :  
 => mise en place de deux 'Policy'.
 
-Ajout de l'authorisation.
+---------------
+
+
+3. Ajout de l'authorisation.
